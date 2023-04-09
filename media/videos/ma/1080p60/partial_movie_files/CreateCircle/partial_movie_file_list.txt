@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/PycharmProjects/pythonProject5/media/videos/ma/1080p60/partial_movie_files/CreateCircle/1413466013_3167649089_223132457.mp4'
+file 'file:D:/PycharmProjects/pythonProject5/media/videos/ma/1080p60/partial_movie_files/CreateCircle/1672018281_1714293266_1586851471.mp4'
+file 'file:D:/PycharmProjects/pythonProject5/media/videos/ma/1080p60/partial_movie_files/CreateCircle/1672018281_3315967912_3446802117.mp4'
